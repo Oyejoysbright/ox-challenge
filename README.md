@@ -24,4 +24,5 @@ THINGS I WOULD LOVE TO IMPLEMENT/IMPROVE
 * Proper documentation
 * Cover more test cases
 * Chunk my GIT commits
+* Add DB Logs
 * And few other things to improve efficiency.
